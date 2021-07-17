@@ -1,5 +1,13 @@
 # Luke's build of st - the simple (suckless) terminal
 
+# Dante's notes
+
++ Twemoji (Twitter font for emojis) is used in this build of st
++ To install Twemoji: `yay -S ttf-twemoji`
++ You can always change it in config.h
+
+# Luke's Notes
+
 The [suckless terminal (st)](https://st.suckless.org/) with some additional
 features that make it literally the best terminal emulator ever:
 

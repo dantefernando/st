@@ -6,7 +6,8 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "FreeMono:pixelsize=30:antialias=true:autohint=true";
-static char *font2[] = { "Font Awesome 5 Free", "Font Awesome 5 Brands", "JoyPixels:pixelsize=10:antialias=true:autohint=true" };
+/* static char *font2[] = { "Font Awesome 5 Free", "Font Awesome 5 Brands", "JoyPixels:pixelsize=10:antialias=true:autohint=true" }; */
+static char *font2[] = { "Font Awesome 5 Free", "Font Awesome 5 Brands", "Twemoji:style=Regular:size=20" };
 static int borderpx = 2;
 
 /*
